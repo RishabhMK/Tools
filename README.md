@@ -1,1 +1,1 @@
-# JUpyter notebook
+# Jupyter notebook
